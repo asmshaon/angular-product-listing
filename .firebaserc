@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-app-d66db": {
+      "hosting": {
+        "angular.io-example": [
+          "angular-app-d66db"
+        ]
+      }
+    }
+  }
+}
